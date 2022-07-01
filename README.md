@@ -29,4 +29,5 @@ The ranking of the top schools were not affected by the update. Thomas High Scho
   
 ## Summary 
 
+In summary, addressing the academic dishonesty in the Thomas High School ninth grade metrics did not impact the analysis much at all. Changes in the district summary were less than 0.5 percentage points. The ranking of the schools by overall passing percentage were unchanged. Changes in scores by school spending, school size, and school type had differences of all less than 0.1%. 
 

@@ -12,18 +12,21 @@ I have performed analysis on the student funding, school performance, and grades
 
 Replacing Thomas High School ninth graders' scores with NaN didn't impact district analysis much. Percentages didn't change more than 0.5 percentage points per category. Categories consists of average math and reading scores as well as percent passing math, reading, and both (overall).
 
-
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-The ranking of the top schools were not affected by the update. Thomas High School remained in the top two schools. 
-
+The ranking of the top schools were not affected by the update. Thomas High School remained in the top two schools based on overall passing percentage. 
 
 - How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
-- Scores by school spending
-- Scores by school size
-- Scores by school type
 
+   - Math and reading scores by grade
+   In both the Math Scores by Grade dataframe and the Reading Scores by Grade dataframe, the only different value is the NaN value for 9th grade Thomas High School Students
+   - Scores by school spending
+   Scores by school spending didn't change at all when looking at the final formatted dataframe. This means any changes to the numbers were less than 0.1%.
+   - Scores by school size
+   Scores by school size also didn't change at all when looking at the final formatted dataframe. This means any changes to the numbers were less than 0.1%.
+   - Scores by school type
+   Scores by school type also didn't change at all when looking at the final formatted dataframe. This means any changes to the numbers were less than 0.1%.
+  
 ## Summary 
 
 
